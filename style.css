@@ -1,0 +1,26 @@
+.google-img img
+{
+width: 90px;
+height: 30px;
+position: absolute;
+padding-top: 28px;
+padding-left: 18px;
+}
+.google-searchbar-style
+{
+   border-radius: 25px;
+   width: 650px;
+   height: 45px;
+   border-style: solid;
+   background-image: url('search.png');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-position-x: 600px;
+
+}
+.google-searchbar-position
+{
+    position: absolute;
+    padding-left: 180px;
+    padding-top: 22px;
+}
